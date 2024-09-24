@@ -1,0 +1,6 @@
+site_name: Markdown reproducer
+repo_url: https://github.com/kdipiet10/markdown-min-reproducer/
+
+nav:
+    - Welcome:
+        - Welcome: linktry.md
