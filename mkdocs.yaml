@@ -58,8 +58,6 @@ extra_javascript:
 theme:
     name: material
     locale: en
-    logo: img/ns-logo.svg
-    favicon: img/favicon.ico
     features:
     - navigation.tabs
     - navigation.sections
