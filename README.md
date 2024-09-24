@@ -14,7 +14,7 @@ mkdocs serve
 
 After running this, it will show the following:
 ```bash
-INFO     -  [14:00:50] Serving on http://127.0.0.1:8000/
+INFO     -  [14:00:50] Serving on url/server/here
 ```
 
 Copy and paste that link into a browser, navigate to the welcome page, and see how both dynamic links work. 
